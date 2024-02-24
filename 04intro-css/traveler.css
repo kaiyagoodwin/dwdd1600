@@ -66,6 +66,7 @@ main h2 {
 
 main p {
     color: #2f3133;
+    ;
     margin: 0 0 .3rem 0;
 }
 
@@ -75,7 +76,7 @@ main ol {
 }
 
 main dl dt {
-    color: #b40412;
+    color: #1282a2;
     font-weight: 700;
 }
 main dl dd {
@@ -100,6 +101,12 @@ main address{
     width: 12.5rem;
     border: 1px solid #0a1128;
     border-radius: .5rem;
+}
+
+header h1{
+    margin: 0;
+    color: #0a1128;
+
 }
 
 main a {
